@@ -143,7 +143,7 @@ public class Starcatch {
 	public static void main(String[] args) {
 
 		// 출력 하고싶은 도형의 주석 지우고 F11
-        // 1은 for문 2개 사용, 2는 if문 사용
+		// 1은 for문 2개 사용, 2는 if문 사용
 		
 		// square();
 		// right_half_triangle_1();
