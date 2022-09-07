@@ -83,7 +83,7 @@ public class Starcatch {
 	public static void triangle_2() {
 
 		for (int i = 0; i < 4; i++) {
-			for (int j = 1; j < 9; j++) {
+			for (int j = 1; j < 8; j++) {
 				if (j < 4-i || i+5 < j+1) {
 				System.out.print(" ");
 				} else {
